@@ -1,6 +1,6 @@
 #  Web Development Internship @ CodSoft
 
-- Virtual Internship completed in July 2024, where I worked on real-world projects and enhanced my web development skills with a focus on HTML, CSS, and JavaScript.
+Virtual Internship completed in July 2024, where I worked on real-world projects and enhanced my web development skills with a focus on HTML, CSS, and JavaScript.
 
 # Table of contents
 
@@ -51,15 +51,15 @@
 
   Through this internship, I gained experience in:
 
-  -> HTML5 and CSS3 for web design and structure.
+  -  HTML5 and CSS3 for web design and structure.
   
-  -> JavaScript for adding interactive features to web applications.
+  -  JavaScript for adding interactive features to web applications.
   
-  -> Responsive web design principles.
+  -  Responsive web design principles.
   
-  -> Strengthening problem-solving and debugging skills.
+  -  Strengthening problem-solving and debugging skills.
   
-  -> Project management and time management during a remote internship.
+  -  Project management and time management during a remote internship.
 
    
 
